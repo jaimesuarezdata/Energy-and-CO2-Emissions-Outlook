@@ -74,10 +74,11 @@ CO2 Emissions in China have tripled in the last 21 years, regardless of having a
 
 In India, the emission has also increased due principally to the growth in fossil fuel production.
 
+![image](images/legend.png)
 <p>&nbsp;  </p>
 
 
-![image](images/renewableenergymix.JPG)|![image](images/legend.png)
+![image](images/renewableenergymix.JPG)|![image](images/legend2.png)
 
 Although China emits the most CO2, it is also the country that leads energy transition to renewables sources. United States is also making efforts to include more renewable sources to their energy mix. Indonesia, South Korea, Iran and Saudi Arabia are still a little behind in energy transition, compared to Germany which emits the same amount but produces four times more renewable energy.
 <p>&nbsp;  </p>
@@ -87,9 +88,9 @@ Although China emits the most CO2, it is also the country that leads energy tran
 
 The increase in Total energy Production implies a higher CO2 emission; however, when comparing the evolution of the ratio of Emissions/Energy through time, we can see that the ratio has declined in the past forty years. The energy is apparently cleaner in terms of emissions per energy. This could be explained by three factors: 
 
-1- There is a reduction of energy production from forms of fossil fuel that emit more CO2 than others, such as coal. 
-2- Technology is enabling a cleaner fossil fuel production, in terms of CO2 emission. 
-3- Renewable energies, with virtually none CO2 emissions, are leveraging this increase in Total energy Production, in terms of the Emissions/Energy ratio.
+1. There is a reduction of energy production from forms of fossil fuel that emit more CO2 than others, such as coal. 
+2. Technology is enabling a cleaner fossil fuel production, in terms of CO2 emission. 
+3. Renewable energies, with virtually none CO2 emissions, are leveraging this increase in Total energy Production, in terms of the Emissions/Energy ratio.
 <p>&nbsp;  </p>
 
 
