@@ -1,5 +1,7 @@
 # Overview
 
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+
 ## Introduction
 
 ![image](images/mapofemissions2021.JPG){:style="display:block;margin:0 auto"}
