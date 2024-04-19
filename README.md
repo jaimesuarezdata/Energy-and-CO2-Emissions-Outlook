@@ -66,9 +66,9 @@ Proportionally to their energy production, Germany, Japan and South Korea emit m
 <p>&nbsp;  </p>
 
 
-![image](images/energymixandemissions2000.JPG) | ![image](images/energymixandemissions2021.JPG)
+![image](images/energymixandemissions2000.JPG) ![image](images/energymixandemissions2021.JPG)
 <p>&nbsp;  </p>
-![image](images/energymixabsoluteandemissions2000.JPG) | ![image](images/energymixabsoluteandemissions2021.JPG)
+![image](images/energymixabsoluteandemissions2000.JPG) ![image](images/energymixabsoluteandemissions2021.JPG)
 <p>&nbsp;  </p>
 ![image](images/legend.png)
 
