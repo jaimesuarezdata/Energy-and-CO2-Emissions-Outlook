@@ -1,3 +1,5 @@
+# Overview
+
 ## Introduction
 
 ![image](images/mapofemissions2021.JPG){:style="display:block;margin:0 auto"}
@@ -36,32 +38,32 @@ There were some Non-Available (NA) data that had to be zeroed out, to make it su
 * Provide conclusions consistent with the exploratory analysis.
 <p>&nbsp;  </p>
 
-## Analysis
+# Analysis
 
 ![image](images/EnergyvsGDP.JPG){:style="display:block;margin:0 auto"}
 
 The world has had a need to increase the production of goods and services to thrive in. This growth in production requires a higher energy consumption and production.
 ##### * Gross Domestic Product (GDP): Standard measure of the value added created through the production of goods and services in a country during a certain period.
 ##### * Quad Btu: Unit of energy equal to 1 quadrillion British Thermal Units.
-
+<p>&nbsp;  </p>
 
 
 ![image](images/evolutionofenergyandco2.JPG){:style="display:block;margin:0 auto"}
 
 Energy production is one of the sources of CO2 emission. The greenhouse effect is what keeps our temperature ideal for humans, animals, plants and other species to live in. Higher CO2 emissions can tip the greenhouse out of balance, which could increase earth's temperature. In the last forty years, both energy production and CO2 emissions have doubled.
-
+<p>&nbsp;  </p>
 
 
 ![image](images/top10co2emitters.JPG){:style="display:block;margin:0 auto"}
 
 Ten countries were responsible in 2021 for 70% of the total global emissions. China emitted 32% , United States 14% and India 7%.  These countries account to more than half of the total global emissions.
-
+<p>&nbsp;  </p>
 
 
 ![image](images/energyproductionandco2top10.JPG)|![image](images/legend.png)
 
 Proportionally to their energy production, Germany, Japan and South Korea emit more CO2 than the other countries in the top 10.
-
+<p>&nbsp;  </p>
 
 
 ![image](images/energymixandemissions2000.JPG) | ![image](images/energymixandemissions2021.JPG)
@@ -71,13 +73,13 @@ Proportionally to their energy production, Germany, Japan and South Korea emit m
 CO2 Emissions in China have tripled in the last 21 years, regardless of having a higher participation of renewable energies in the Energy Source Mix; this can be explained by the significant growth in fossil energy that the country has developed. United States has reduced the emissions, even with a higher fossil energy production.
 
 In India, the emission has also increased due principally to the growth in fossil fuel production.
-
+<p>&nbsp;  </p>
 
 
 ![image](images/renewableenergymix.JPG)|![image](images/legend.png)
 
 Although China emits the most CO2, it is also the country that leads energy transition to renewables sources. United States is also making efforts to include more renewable sources to their energy mix. Indonesia, South Korea, Iran and Saudi Arabia are still a little behind in energy transition, compared to Germany which emits the same amount but produces four times more renewable energy.
-
+<p>&nbsp;  </p>
 
 
 ![image](images/evolutionofenergymixandco2emissions.JPG) | ![image](images/totalenergyandemissionsperenergy.JPG)
@@ -87,5 +89,8 @@ The increase in Total energy Production implies a higher CO2 emission; however, 
 1- There is a reduction of energy production from forms of fossil fuel that emit more CO2 than others, such as coal. 
 2- Technology is enabling a cleaner fossil fuel production, in terms of CO2 emission. 
 3- Renewable energies, with virtually none CO2 emissions, are leveraging this increase in Total energy Production, in terms of the Emissions/Energy ratio.
+<p>&nbsp;  </p>
 
-## Links
+
+# Links
+
