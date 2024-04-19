@@ -34,6 +34,7 @@ There were some Non-Available (NA) data that had to be zeroed out, to make it su
 ## Goals
 * Provide a clear understanding about how energy production and Carbon dioxide emissions are related and their evolution in the past years.
 * Provide conclusions consistent with the exploratory analysis.
+&nbsp;
 
 ## Analysis
 
