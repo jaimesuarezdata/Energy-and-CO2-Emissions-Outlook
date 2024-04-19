@@ -1,4 +1,4 @@
-7302173021# Instacart
+# Energy and C02 Emissions Outlook
 
 ## Introduction
 Energy production has surged in recent years due to a notable increase in demand, primarily due to population growth, coupled with rising standards of living and a rapid industrial development. Energy production is closely linked to carbon dioxide emissions, because the dominant sources of energy globally are fossil fuels, like coal, oil and natural gas.
