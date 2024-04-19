@@ -67,7 +67,9 @@ Proportionally to their energy production, Germany, Japan and South Korea emit m
 
 
 ![image](images/energymixandemissions2000.JPG) | ![image](images/energymixandemissions2021.JPG)
+<p>&nbsp;  </p>
 ![image](images/energymixabsoluteandemissions2000.JPG) | ![image](images/energymixabsoluteandemissions2021.JPG)
+<p>&nbsp;  </p>
 ![image](images/legend.png)
 
 CO2 Emissions in China have tripled in the last 21 years, regardless of having a higher participation of renewable energies in the Energy Source Mix; this can be explained by the significant growth in fossil energy that the country has developed. United States has reduced the emissions, even with a higher fossil energy production.
