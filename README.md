@@ -43,19 +43,33 @@ The world has had a need to increase the production of goods and services to thr
 ##### * Gross Domestic Product (GDP): Standard measure of the value added created through the production of goods and services in a country during a certain period.
 ##### * Quad Btu: Unit of energy equal to 1 quadrillion British Thermal Units.
 
+
+
 ![image](images/evolutionofenergyandco2.JPG){:style="display:block;margin:0 auto"}
 
 Energy production is one of the sources of CO2 emission. The greenhouse effect is what keeps our temperature ideal for humans, animals, plants and other species to live in. Higher CO2 emissions can tip the greenhouse out of balance, which could increase earth's temperature. In the last forty years, both energy production and CO2 emissions have doubled.
+
+
 
 ![image](images/top10co2emitters.JPG){:style="display:block;margin:0 auto"}
 
 Ten countries were responsible in 2021 for 70% of the total global emissions. China emitted 32% , United States 14% and India 7%.  These countries account to more than half of the total global emissions.
 
+
+
 ![image](images/energyproductionandco2top10.JPG){:style="display:block;margin:0 auto"}
 
 Proportionally to their energy production, Germany, Japan and South Korea emit more CO2 than the other countries in the top 10.
 
+
+
 ![image](images/energymixandemissions2000.JPG) | ![image](images/energymixandemissions2021.JPG)
+![image](images/energymixabsoluteandemissions2000.JPG) | ![image](images/energymixabsoluteandemissions2021.JPG)
+
+CO2 Emissions in China have tripled in the last 21 years, regardless of having a higher participation of renewable energies in the Energy Source Mix; this can be explained by the significant growth in fossil energy that the country has developed. United States has reduced the emissions, even with a higher fossil energy production.
+
+In India, the emission has also increased due principally to the growth in fossil fuel production.
 
 
 
+![image](images/renewableenergymix.JPG){:style="display:block;margin:0 auto"}
