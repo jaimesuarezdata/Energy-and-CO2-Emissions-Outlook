@@ -34,9 +34,13 @@
 ### * Provide a clear understanding about how energy production and Carbon dioxide emissions are related and their evolution in the past years.
 ### * Provide conclusions consistent with the exploratory analysis.
 
-![image](https://github.com/jaimesuarezdata/Instacart/assets/92610397/198faad4-55b0-484d-b8f8-4e2de873b242) | ![image](https://github.com/jaimesuarezdata/Instacart/assets/92610397/208176d5-da43-414a-a9b8-f4fab46c816a)
+## Analysis
 
-### The world has had a need to increase the production of goods and services to thrive in. This growth in production requires a higher energy consumption and production. | Energy production is one of the sources of CO2 emission. The greenhouse effect is what keeps our temperature ideal for humans, animals, plants and other species to live in. Higher CO2 emissions can tip the greenhouse out of balance, which could increase earth's temperature. In the last forty years, both energy production and CO2 emissions have doubled.
+![image](https://github.com/jaimesuarezdata/Instacart/assets/92610397/198faad4-55b0-484d-b8f8-4e2de873b242){:style="float:left"}
+The world has had a need to increase the production of goods and services to thrive in. This growth in production requires a higher energy consumption and production.
+
+![image](https://github.com/jaimesuarezdata/Instacart/assets/92610397/208176d5-da43-414a-a9b8-f4fab46c816a){:style="float:right"}
+Energy production is one of the sources of CO2 emission. The greenhouse effect is what keeps our temperature ideal for humans, animals, plants and other species to live in. Higher CO2 emissions can tip the greenhouse out of balance, which could increase earth's temperature. In the last forty years, both energy production and CO2 emissions have doubled.
 #### * Gross Domestic Product (GDP): Standard measure of the value added created through the production of goods and services in a country during a certain period.
 #### * Quad Btu: Unit of energy equal to 1 quadrillion British Thermal Units.
 
