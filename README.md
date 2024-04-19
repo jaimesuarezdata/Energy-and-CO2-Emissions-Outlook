@@ -84,6 +84,7 @@ In India, the emission has also increased due principally to the growth in fossi
 Although China emits the most CO2, it is also the country that leads energy transition to renewables sources. United States is also making efforts to include more renewable sources to their energy mix. Indonesia, South Korea, Iran and Saudi Arabia are still a little behind in energy transition, compared to Germany which emits the same amount but produces four times more renewable energy.
 <p>&nbsp;  </p>
 
+# <span style="color:orange">Conclusion</span>
 
 ![image](images/evolutionofenergymixandco2emissions.JPG) | ![image](images/totalenergyandemissionsperenergy.JPG)
 
@@ -96,4 +97,6 @@ The increase in Total energy Production implies a higher CO2 emission; however, 
 
 
 # <span style="color:orange">Links</span>
+[Back to Portfolio](https://jaimesuarezdata.github.io/)
+[Tableau Dashboard](https://public.tableau.com/app/profile/jaime.suarez4491/viz/EnergyOutlook_17114898294590/Evolutionofenergy)
 
