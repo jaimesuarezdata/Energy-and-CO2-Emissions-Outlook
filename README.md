@@ -97,6 +97,6 @@ The increase in Total energy Production implies a higher CO2 emission; however, 
 
 
 # <span style="color:orange">Links</span>
-[Back to Portfolio](https://jaimesuarezdata.github.io/)
 [Tableau Dashboard](https://public.tableau.com/app/profile/jaime.suarez4491/viz/EnergyOutlook_17114898294590/Evolutionofenergy)
+
 
