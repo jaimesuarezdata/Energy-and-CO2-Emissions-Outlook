@@ -36,13 +36,13 @@ There were some Non-Available (NA) data that had to be zeroed out, to make it su
 
 ## Analysis
 
-![image](https://github.com/jaimesuarezdata/Instacart/assets/92610397/198faad4-55b0-484d-b8f8-4e2de873b242)
+![image](https://github.com/jaimesuarezdata/Instacart/assets/92610397/198faad4-55b0-484d-b8f8-4e2de873b242){: style="float:center"}
 
 The world has had a need to increase the production of goods and services to thrive in. This growth in production requires a higher energy consumption and production.
 ##### * Gross Domestic Product (GDP): Standard measure of the value added created through the production of goods and services in a country during a certain period.
 ##### * Quad Btu: Unit of energy equal to 1 quadrillion British Thermal Units.
 
-![image](https://github.com/jaimesuarezdata/Instacart/assets/92610397/208176d5-da43-414a-a9b8-f4fab46c816a)
+![image](https://github.com/jaimesuarezdata/Instacart/assets/92610397/208176d5-da43-414a-a9b8-f4fab46c816a){: style="float:center"}
 
 Energy production is one of the sources of CO2 emission. The greenhouse effect is what keeps our temperature ideal for humans, animals, plants and other species to live in. Higher CO2 emissions can tip the greenhouse out of balance, which could increase earth's temperature. In the last forty years, both energy production and CO2 emissions have doubled.
 
