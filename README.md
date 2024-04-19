@@ -36,7 +36,7 @@ There were some Non-Available (NA) data that had to be zeroed out, to make it su
 
 ## Analysis
 
-![image](https://github.com/jaimesuarezdata/Instacart/assets/92610397/198faad4-55b0-484d-b8f8-4e2de873b242){:style="display:block;margin:0 auto"}
+![image](images/EnergyvsGDP.JPG){:style="display:block;margin:0 auto"}
 
 The world has had a need to increase the production of goods and services to thrive in. This growth in production requires a higher energy consumption and production.
 ##### * Gross Domestic Product (GDP): Standard measure of the value added created through the production of goods and services in a country during a certain period.
