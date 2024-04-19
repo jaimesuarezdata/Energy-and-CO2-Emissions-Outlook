@@ -1,6 +1,6 @@
 # Overview
 
-# <p><span style="color:orange">Overview</span>.</p>
+# <span style="color:orange">Overview</span>
 
 ## Introduction
 
