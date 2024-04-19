@@ -73,7 +73,6 @@ CO2 Emissions in China have tripled in the last 21 years, regardless of having a
 <p>&nbsp;  </p>
 ![image](images/energymixabsoluteandemissions2000.JPG)| ![image](images/energymixabsoluteandemissions2021.JPG)
 <p>&nbsp;  </p>
-![image](images/legend.png)
 In India, the emission has also increased due principally to the growth in fossil fuel production.
 <p>&nbsp;  </p>
 
