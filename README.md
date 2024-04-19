@@ -1,31 +1,29 @@
-# Overview
-
 # <span style="color:orange">Overview</span>
 
-## Introduction
+## <span style="color:orange">Introduction</span>
 
 ![image](images/mapofemissions2021.JPG){:style="display:block;margin:0 auto"}
 
 Energy production has surged in recent years due to a notable increase in demand, primarily due to population growth, coupled with rising standards of living and a rapid industrial development. Energy production is closely linked to carbon dioxide emissions, because the dominant sources of energy globally are fossil fuels, like coal, oil and natural gas.
 
-## Data Used
+## <span style="color:orange">Data Used</span>
 The data was downloaded from the U.S. Energy Information Administration (EIA), and contains information from 1980 to 2021, including energy production by source and country, Gross Domestic Product (GDP) and carbon dioxide emissions (CO2) by country.
 
-## Challenges
+## <span style="color:orange">Challenges</span>
 There were some Non-Available (NA) data that had to be zeroed out, to make it suitable for analysis. The data had to be rearranged, grouped and new columns were derived in Excel and Python with the Pandas library to make it more understandable and prepare it for exporting to Tableau, where the visualizations were created.
 
-## Tools
+## <span style="color:orange">Tools</span>
 * Python and Excel for data cleaning and wrangling.
 * Tableau for visualization.
 
-## Questions
+## <span style="color:orange">Questions</span>
 * Is there a relationship between energy production and Gross Domestic Product?
 * How have energy production and CO2 emissions evolved in the past years?
 * Which countries emit the most CO2? How have they changed their emissions and their energy sources mix?
 * What is their renewables energy mix?
 * How have the CO2 emissions changed in the last years?
 
-## Skills
+## <span style="color:orange">Skills</span>
 * Data cleaning and wrangling with Pandas and Excel.
 * Data consistency checks.
 * Conducting statistical analyses.
@@ -35,12 +33,12 @@ There were some Non-Available (NA) data that had to be zeroed out, to make it su
 * Data visualization with Python.
 * Data visualization with Tableau.
 
-## Goals
+## <span style="color:orange">Goals</span>
 * Provide a clear understanding about how energy production and Carbon dioxide emissions are related and their evolution in the past years.
 * Provide conclusions consistent with the exploratory analysis.
 <p>&nbsp;  </p>
 
-# Analysis
+# <span style="color:orange">Analysys</span>
 
 ![image](images/EnergyvsGDP.JPG){:style="display:block;margin:0 auto"}
 
@@ -97,5 +95,5 @@ The increase in Total energy Production implies a higher CO2 emission; however, 
 <p>&nbsp;  </p>
 
 
-# Links
+# <span style="color:orange">Links</span>
 
